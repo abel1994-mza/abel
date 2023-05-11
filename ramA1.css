@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+    color: #333;
+
+    
+ 
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black 
+    }
+    
+h1{ text-align: center;
+    color: black;
+
+}
+#cabecera
+{
+    background: blue;
+    color: white;
+    margin: 0 auto;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px rgba(0,0,0,0) }
